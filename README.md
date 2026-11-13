@@ -2,7 +2,7 @@
 
 An unofficial value list and trade helper for **Anime Adventures** on Roblox. It is a single static web page with no build step and no dependencies.
 
-**Live site:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Live site:** animeadventureatierlist.vercel.app
 
 ## Features
 
